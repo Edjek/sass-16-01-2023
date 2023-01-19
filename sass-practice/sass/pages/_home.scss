@@ -13,7 +13,6 @@
 }
 
 .cards {
-    background-color: pink;
     @include section(600px, 20px);
     display: flex;
     justify-content: center;
@@ -51,4 +50,13 @@
 
 .content h2 {
     text-align: center;
+}
+
+@for $i from 1 through 100 {
+    .item-#{$i} {
+        width: 100px;
+        height: 100px;
+        background-color: pink;
+        margin-bottom: $i + px;
+    }
 }

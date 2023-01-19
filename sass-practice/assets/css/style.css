@@ -56,7 +56,6 @@ header .header-logo {
 }
 
 .cards {
-  background-color: pink;
   min-height: 600px;
   width: 80%;
   margin: auto;
@@ -95,4 +94,704 @@ header .header-logo {
 
 .content h2 {
   text-align: center;
+}
+
+.item-1 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 1px;
+}
+
+.item-2 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 2px;
+}
+
+.item-3 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 3px;
+}
+
+.item-4 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 4px;
+}
+
+.item-5 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 5px;
+}
+
+.item-6 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 6px;
+}
+
+.item-7 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 7px;
+}
+
+.item-8 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 8px;
+}
+
+.item-9 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 9px;
+}
+
+.item-10 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 10px;
+}
+
+.item-11 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 11px;
+}
+
+.item-12 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 12px;
+}
+
+.item-13 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 13px;
+}
+
+.item-14 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 14px;
+}
+
+.item-15 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 15px;
+}
+
+.item-16 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 16px;
+}
+
+.item-17 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 17px;
+}
+
+.item-18 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 18px;
+}
+
+.item-19 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 19px;
+}
+
+.item-20 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 20px;
+}
+
+.item-21 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 21px;
+}
+
+.item-22 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 22px;
+}
+
+.item-23 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 23px;
+}
+
+.item-24 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 24px;
+}
+
+.item-25 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 25px;
+}
+
+.item-26 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 26px;
+}
+
+.item-27 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 27px;
+}
+
+.item-28 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 28px;
+}
+
+.item-29 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 29px;
+}
+
+.item-30 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 30px;
+}
+
+.item-31 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 31px;
+}
+
+.item-32 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 32px;
+}
+
+.item-33 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 33px;
+}
+
+.item-34 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 34px;
+}
+
+.item-35 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 35px;
+}
+
+.item-36 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 36px;
+}
+
+.item-37 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 37px;
+}
+
+.item-38 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 38px;
+}
+
+.item-39 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 39px;
+}
+
+.item-40 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 40px;
+}
+
+.item-41 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 41px;
+}
+
+.item-42 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 42px;
+}
+
+.item-43 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 43px;
+}
+
+.item-44 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 44px;
+}
+
+.item-45 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 45px;
+}
+
+.item-46 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 46px;
+}
+
+.item-47 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 47px;
+}
+
+.item-48 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 48px;
+}
+
+.item-49 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 49px;
+}
+
+.item-50 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 50px;
+}
+
+.item-51 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 51px;
+}
+
+.item-52 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 52px;
+}
+
+.item-53 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 53px;
+}
+
+.item-54 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 54px;
+}
+
+.item-55 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 55px;
+}
+
+.item-56 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 56px;
+}
+
+.item-57 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 57px;
+}
+
+.item-58 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 58px;
+}
+
+.item-59 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 59px;
+}
+
+.item-60 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 60px;
+}
+
+.item-61 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 61px;
+}
+
+.item-62 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 62px;
+}
+
+.item-63 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 63px;
+}
+
+.item-64 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 64px;
+}
+
+.item-65 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 65px;
+}
+
+.item-66 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 66px;
+}
+
+.item-67 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 67px;
+}
+
+.item-68 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 68px;
+}
+
+.item-69 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 69px;
+}
+
+.item-70 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 70px;
+}
+
+.item-71 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 71px;
+}
+
+.item-72 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 72px;
+}
+
+.item-73 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 73px;
+}
+
+.item-74 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 74px;
+}
+
+.item-75 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 75px;
+}
+
+.item-76 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 76px;
+}
+
+.item-77 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 77px;
+}
+
+.item-78 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 78px;
+}
+
+.item-79 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 79px;
+}
+
+.item-80 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 80px;
+}
+
+.item-81 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 81px;
+}
+
+.item-82 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 82px;
+}
+
+.item-83 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 83px;
+}
+
+.item-84 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 84px;
+}
+
+.item-85 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 85px;
+}
+
+.item-86 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 86px;
+}
+
+.item-87 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 87px;
+}
+
+.item-88 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 88px;
+}
+
+.item-89 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 89px;
+}
+
+.item-90 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 90px;
+}
+
+.item-91 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 91px;
+}
+
+.item-92 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 92px;
+}
+
+.item-93 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 93px;
+}
+
+.item-94 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 94px;
+}
+
+.item-95 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 95px;
+}
+
+.item-96 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 96px;
+}
+
+.item-97 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 97px;
+}
+
+.item-98 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 98px;
+}
+
+.item-99 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 99px;
+}
+
+.item-100 {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin-bottom: 100px;
 }/*# sourceMappingURL=style.css.map */
