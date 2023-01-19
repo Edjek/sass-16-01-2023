@@ -102,7 +102,7 @@ h4 {
 }
 
 @for $i from 1 through 100 {
-  .b#{$i}{
+  .b#{$i} {
     width: $i+px;
     height: $i+px;
   }
